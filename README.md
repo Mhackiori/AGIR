@@ -60,11 +60,11 @@ Please, cite this work when referring to AGIR.
 
 ```
 @article{citation_in_progress,
-  title={,
-  author={,
-  journal={,
-  year={
-
+  title={},
+  author={},
+  journal={},
+  year={}
+}
 ```
 
 <p align="right"><a href="#top">(back to top)</a></p>
@@ -88,10 +88,15 @@ The questionnaires given to the analysts are structured as follows. First, to es
 6. We ask for an evaluation of each report's utility, described as how long the analyst would take to write a full report starting from the presented one.
 
 ![Overview Subject Input Example](/Reports/Input_Example/Overview_Subject_Input_Example.png "Overview Subject Input Example")
+
 *Fig. 1. JSON input example for Overview and Subject reports. When dealing with the Subject report, we focus on the “Winnti Group” entity.*
+
 ![Timeline Input Example](/Reports/Input_Example/Timeline_Input_Example.png "Timeline Input Example")
+
 *Fig. 2. JSON input example for Timeline reports.*
+
 ![Vulnerability Input Example](/Reports/Input_Example/Vulnerability_Input_Example.png "Vulnerability Input Example")
+
 *Fig. 3. JSON input example for Vulnerability reports.*
 
 <div id="results"></div>
