@@ -59,11 +59,13 @@
 Please, cite this work when referring to AGIR.
 
 ```
-@article{citation_in_progress,
-  title={},
-  author={},
-  journal={},
-  year={}
+@misc{perrina2023agir,
+      title={AGIR: Automating Cyber Threat Intelligence Reporting with Natural Language Generation}, 
+      author={Filippo Perrina and Francesco Marchiori and Mauro Conti and Nino Vincenzo Verde},
+      year={2023},
+      eprint={2310.02655},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR}
 }
 ```
 
