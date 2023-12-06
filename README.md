@@ -11,7 +11,7 @@
   <p align="center">
     Automating Cyber Threat Intelligence Reporting with Natural Language Generation
     <br />
-    <a href=""><strong>Paper in progress »</strong></a>
+    <a href="https://arxiv.org/abs/2310.02655"><strong>Preprint Available »</strong></a>
     <br />
     <br />
     <a href="https://github.com/FilippoPerrina">Filippo Perrina</a>
