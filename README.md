@@ -59,14 +59,16 @@
 Please, cite this work when referring to AGIR.
 
 ```
-@misc{perrina2023agir,
-      title={AGIR: Automating Cyber Threat Intelligence Reporting with Natural Language Generation}, 
-      author={Filippo Perrina and Francesco Marchiori and Mauro Conti and Nino Vincenzo Verde},
-      year={2023},
-      eprint={2310.02655},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR}
-}
+@INPROCEEDINGS{10386116,
+  author={Perrina, Filippo and Marchiori, Francesco and Conti, Mauro and Verde, Nino Vincenzo},
+  booktitle={2023 IEEE International Conference on Big Data (BigData)}, 
+  title={AGIR: Automating Cyber Threat Intelligence Reporting with Natural Language Generation}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={3053-3062},
+  keywords={Training;Standards organizations;Pipelines;Production;Syntactics;Writing;Chatbots;Cyber Threat Intelligence;Natural Language Generation;Threat Reports;STIX},
+  doi={10.1109/BigData59044.2023.10386116}}
 ```
 
 <p align="right"><a href="#top">(back to top)</a></p>
